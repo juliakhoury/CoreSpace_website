@@ -32,5 +32,7 @@ Most notiable productivity tool we wanted to include is the AI chat that ran loc
 
 ## Screenshots
 
-![Home Page](/mainmenu.png)
+![Main Menu](/assets/main-menu.png)
+![AI chat in meeting](/assets/chat.png)
+- more screenshots in webpage.
 
